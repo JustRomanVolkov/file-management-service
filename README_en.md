@@ -1,4 +1,7 @@
 # FastAPI File Service with GridFS, Celery, and Docker
+ <p>
+  <a href="https://github.com/TheRomanVolkov/file-management-service/blob/main/README_en.md">English</a> | <a href="https://github.com/TheRomanVolkov/file-management-service/blob/main/README.md">Русский</a>
+</p> 
 
 This project is a FastAPI-based service for performing CRUD operations on files, storing them in MongoDB GridFS, and processing them with Celery. The service runs in Docker containers and uses Motor for asynchronous MongoDB operations and Redis as a Celery broker.
 
